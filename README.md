@@ -1,5 +1,5 @@
 # Python Projects
-In this repo, there are 5 min basic Python projects. These are:
+In this repo, there are 5 mini basic Python projects. These are:
 
 1 - Number Guesser <br>
 2 - Rock, Paper, Scissors <br>
